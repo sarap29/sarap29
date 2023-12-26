@@ -1,5 +1,7 @@
-Hi there 👋
 
+Hi there 👋,
+
+```javascript
 const sara = {
     pronouns: "She" | "Her",
     askMeAbout: ["web dev", "music", "photography"],
@@ -9,7 +11,7 @@ const sara = {
         design: ["photoshop", "ilustrator", "premiere"],
     }
 };
-
+```
 
 
 
