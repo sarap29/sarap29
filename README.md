@@ -8,7 +8,7 @@ const sara = {
     technologies: {
         frontEnd: ["html", "css", "sass", "bootstrap", "javascript",  "C#", "react.js", "vue.js", "jest", "flux"],
         backEnd: ["phyton", "sql", "sqlAlchemy","flask", "postman", "API'S"],
-        web / eCommerce: ["Wordpress", "WooCommerce", "Shopify", "Prestashop"].
+        web / eCommerce: ["Wordpress", "WooCommerce", "Shopify", "Prestashop"],
         design: ["Figma", "photoshop", "ilustrator", "premiere"],
         seo: ["Semrush", "Google Analitycs", "Google Ads"],
     }
